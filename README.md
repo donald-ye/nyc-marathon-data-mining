@@ -1,2 +1,2 @@
 # nyc-marathon-data-mining
-Including a data scraper, dataset, and data analysis
+Dataset used: (https://huggingface.co/datasets/donaldye8812/nyc-2025-marathon-splits)
